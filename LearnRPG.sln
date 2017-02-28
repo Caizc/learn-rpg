@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{62DB109C-94D0-94FA-B51A-4E42F6E096B3}") = "LearnRPG", "Assembly-CSharp.csproj", "{BBE72324-9892-D69F-E1A8-876325E75B68}"
+EndProject
+Project("{62DB109C-94D0-94FA-B51A-4E42F6E096B3}") = "LearnRPG", "Assembly-CSharp-Editor-firstpass.csproj", "{30B81401-0E01-7915-40D9-73DF8738EFA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE72324-9892-D69F-E1A8-876325E75B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE72324-9892-D69F-E1A8-876325E75B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE72324-9892-D69F-E1A8-876325E75B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE72324-9892-D69F-E1A8-876325E75B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B81401-0E01-7915-40D9-73DF8738EFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B81401-0E01-7915-40D9-73DF8738EFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B81401-0E01-7915-40D9-73DF8738EFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B81401-0E01-7915-40D9-73DF8738EFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
